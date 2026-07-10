@@ -1,2 +1,2 @@
-# vercan-web
-vercan website
+# VERCAN
+Coming soon.

@@ -22,6 +22,6 @@ theme = "gallery"
   weight = 2
 
 # Append to your hugo.toml to omit raw photo downloads
-cascade:
-  build:
-    publishResources: false
+#cascade:
+#  build:
+#    publishResources: false

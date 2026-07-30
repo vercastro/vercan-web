@@ -1,4 +1,4 @@
-baseURL = 'https://vercastro.github.io/vercan-web/'
+#baseURL = 'https://vercastro.github.io/vercan-web/'
 languageCode = 'en-us'
 title = 'vercan'
 theme = "gallery"

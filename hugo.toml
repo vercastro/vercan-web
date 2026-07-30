@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vercastro.github.io/vercan-web/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'vercan'
 theme = "gallery"
+
+[params]
+  description = 'A showcase of my photography'
+  author = 'vercan'
+  defaultTheme = 'dark' # 'dark', 'light', or 'system'

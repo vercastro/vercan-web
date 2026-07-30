@@ -9,3 +9,19 @@ theme = "gallery"
 
   [params.author]
     name = 'vercan'
+
+# Custom Top Navigation Bar
+[[menu.main]]
+  name = "Albums"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+# Append to your hugo.toml to omit raw photo downloads
+cascade:
+  build:
+    publishResources: false

@@ -1,6 +1,6 @@
 baseURL = 'https://vercastro.github.io/vercan-web/'
 locale = 'en-us'
-title = 'Welcome to my little world of photography.'
+title = 'vercan.ca'
 theme = "gallery"
 
 [params]

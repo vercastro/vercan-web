@@ -8,4 +8,4 @@ params:
   sort_order: "asc"  # "asc" or "desc"
 ---
 
-This description text will appear above the photo gallery on the album page.
+This is an ever growing list of the best photos from around the world. Far away and close to home.

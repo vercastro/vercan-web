@@ -8,4 +8,4 @@ params:
   sort_order: "asc"  # "asc" or "desc"
 ---
 
-Astrophotography is a completely different discipline than any other. It takes big gear and lots of patience. The payoff is sometimes worth the effort.
+Astrophotography is a completely different discipline than any other. It takes big gear and lots of patience. The payoff is sometimes worth the effort :P

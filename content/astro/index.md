@@ -7,7 +7,7 @@ params:
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
 resources:
-  - src: "final.png"
+  - src: "M33_2022_LRGB.png"
     params:
       cover: true
 ---

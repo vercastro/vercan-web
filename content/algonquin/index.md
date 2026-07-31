@@ -8,4 +8,4 @@ params:
   sort_order: "asc"  # "asc" or "desc"
 ---
 
-The Algonqiun back country as seens through my lens. There is some kind of magic among the lakes, rivers, swamps and trees of Algonquin that I hope you can feel a bit whern viewing my photos. 
+The Algonqiun back country as seen through my lens. Experience the lakes, rivers, swamps and trees of Algonquin.

@@ -6,6 +6,10 @@ params:
   #featured: true     # Set to true to show on the homepage
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
+resources:
+  - src: "IrisNebula2024Final_hu_c479f6abaed0801e.jpg"
+    params:
+      cover: true
 ---
 
 Astrophotography is a completely different discipline than any other. It takes big gear and lots of patience. The payoff is sometimes worth the effort :P

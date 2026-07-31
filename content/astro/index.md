@@ -7,7 +7,7 @@ params:
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
 resources:
-  - src: "IrisNebula2024Final_hu_c479f6abaed0801e.jpg"
+  - src: "IrisNebula2024Final.jpg"
     params:
       cover: true
 ---

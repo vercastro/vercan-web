@@ -6,6 +6,10 @@ params:
   featured: true     # Set to true to show on the homepage
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
+resources:
+  - src: "Human Interest_1.jpg"
+    params:
+      cover: true
 ---
 
 This is an ever growing list of the best photos from around the world. Far away and close to home.

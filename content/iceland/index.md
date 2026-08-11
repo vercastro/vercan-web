@@ -7,7 +7,7 @@ params:
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
 resources:
-  - src: "DSC06721.jpg"
+  - src: "DSC02653.jpg"
     params:
       cover: true
 ---

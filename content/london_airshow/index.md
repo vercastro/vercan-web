@@ -1,11 +1,15 @@
 ---
 title: "London Airshow"
 date: 2026-08-11
-description: "Picks from various years of the London Airhsow"
+description: "Picks from various years at the London Airhsow"
 params:
   #featured: true     # Set to true to show on the homepage
   sort_by: "Name"    # "Name" (default) or "Date" (EXIF date)
   sort_order: "asc"  # "asc" or "desc"
+resources:
+  - src: "DSC06721.jpg"
+    params:
+      cover: true
 ---
 
-Picks from various years of the London Airhsow.
+Picks from various years at the London Airhsow.
